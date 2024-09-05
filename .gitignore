@@ -1,0 +1,9 @@
+__pycache__
+.idea
+.venv
+# Coverage report
+.coverage
+# Database related files
+instance
+# Environment variables
+.env
